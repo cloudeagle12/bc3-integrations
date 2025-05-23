@@ -428,4 +428,8 @@ integrations:
     url: "https://www.feedbucket.app/integrations/basecamp/?utm_source=basecamp&utm_medium=marketplace"
     image: extras/feedbucket.png
     category: 5
-  
+  - title: "cloudeagle.ai"
+    description: "Single app to govern, manage, renew all your SaaS apps"
+    url: "https://www.cloudeagle.ai/"
+    image: extras/basecamp3.png
+    category: 6
